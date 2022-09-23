@@ -1,7 +1,7 @@
 
 ## Bundling Assets on Laravel Vite
 
-Vite is now the default module bundler for new Laravel projects. Its best feature is an incredibly fast development server with Hot Module replacement.
+Vite is now the default module bundler for new Laravel projects. Its best feature is an incredibly fast development server with Hot Module replacement. In this Repo, we take a look at common scenarios where you want to make use of Vite to process your CSS and JavaScript assets.
 
 - Create a new Laravel App
 ```
