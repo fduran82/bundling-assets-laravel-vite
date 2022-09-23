@@ -1,0 +1,14 @@
+$color-primary: #FF5722;
+$color-secondary: #ffca28;
+$color-theme: #282c34;
+
+body {
+    background-color:$color-theme;
+}
+h2 {
+    color:$color-primary;
+
+    span {
+        color: $color-secondary;
+    }
+}
